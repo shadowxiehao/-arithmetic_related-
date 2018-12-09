@@ -14,4 +14,12 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="计算三数最小值 输入时可用任意分隔符(基本).c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算3个指针12小时内相互分开一定角度的概率.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
